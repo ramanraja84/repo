@@ -1,0 +1,14 @@
+#!/bin/bash
+# Ask the user for their name
+<<<<<<< HEAD
+echo “Whatis your name?”
+read name
+# Greet the user
+echo “Hello, $name! Nice to meet you.”
+
+=======
+echo “What’s your name?”
+read name
+# Greet the user
+echo “Hello, $name! Nice to meet you.”
+>>>>>>> ee9882fb63c7af19b7c2137faf7474af5c295d64
